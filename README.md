@@ -10,10 +10,10 @@ When you use `from bxs import this`, the console will print some text.
 # Install this package from TestPyPI
 pip install -i https://test.pypi.org/simple/ bxs
 
-# Then you can import this in you code
+# Then you can import this in your code
 from bxs import this
 
-# By the way, I wish you know The Zen of Python
+# By the way, I wish your know The Zen of Python
 import this
 ```
 
